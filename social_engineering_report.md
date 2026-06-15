@@ -1,6 +1,6 @@
 # Social Engineering Attacks: Research Report
 
-**Prepared by:** Krushil Patel
+**Prepared by:** Krushil Patel  
 **Institution:** Charotar University of Science and Technology (CHARUSAT)  
 **Program:** B.Tech Information Technology  
 **Internship Task:** Task 5 — Social Engineering Attacks  
